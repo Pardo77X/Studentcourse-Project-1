@@ -1,0 +1,6 @@
+com\example\studentcourse\StudentcourseApplication.class
+com\example\studentcourse\service\StudentService.class
+com\example\studentcourse\controller\StudentCourseController.class
+com\example\studentcourse\model\Course.class
+com\example\studentcourse\config\RestTemplateConfig.class
+com\example\studentcourse\model\Student.class
